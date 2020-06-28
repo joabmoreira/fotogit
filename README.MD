@@ -1,5 +1,5 @@
 # Photo Portfolio
 
-simples projeto para teste do curso de git hub -JOAB ORIGINAL
+simples projeto para teste do curso de git hub -JOAB MOREIRA DA SILVA
 
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
